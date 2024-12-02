@@ -1,1 +1,1 @@
-# puzzles
+# etude
